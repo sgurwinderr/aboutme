@@ -7,10 +7,10 @@ version: 2
 
 # Personal info
 name: Gurwinder Singh
-title: GPU SDE @ Intel
+title: GPU Software Development Engineer @ Intel
 email: sgurwinderr@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 website: dreamdeor.com
 # website_title: Web (Website title override)
@@ -25,10 +25,10 @@ orcid_username: 0000-0002-8999-4317
 googlescholar_username: bjywFLAAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -41,10 +41,10 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hey there, I'm Gurwinder Singh, a passionate GPU Software Development Engineer currently making at <mark> Intel <mark>. My expertise spans <mark> AI(Directml) <mark>, <mark> OGL & Vulkan <mark>, <mark> Virtualization (KVM, ESXI ...) <mark>, and <mark> Windows Test Automation <mark>.
+  Hey there, I'm Gurwinder Singh, a passionate GPU Software Development Engineer currently making at <mark> Intel </mark>. My expertise spans <mark> AI(Directml) </mark>, <mark> OGL & Vulkan </mark>, <mark> Virtualization (KVM, ESXI ...) </mark>, and <mark> Windows Test Automation </mark>.
   Beyond my professional endeavors, I've had the incredible opportunity to share my knowledge as an instructor at Chitkara University, where I've taught courses on game development, AR/VR, and graphics programming. 
   I'm have contributed to academia through the publication of multiple research papers. Additionally, I've filed patents related to AR/VR technology and secured grants for prototyping AR/VR applications.
 
