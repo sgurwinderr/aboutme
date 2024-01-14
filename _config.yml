@@ -43,10 +43,11 @@ googlescholar_username: bjywFLAAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-
-  Hey there, I'm Gurwinder Singh, a passionate GPU Software Development Engineer currently making at Intel. My expertise spans AI(Directml), OGL & Vulkan, Virtualization (KVM, ESXI ...), and Windows Test Automation.
-  Beyond my professional endeavors, I've had the incredible opportunity to share my knowledge as an instructor at Chitkara University, where I've taught courses on game development, AR/VR, and Graphics Programming. 
-  I'm have contributed to academia through the publication of multiple research papers. Additionally, I've filed patents related to AR/VR technology and secured grants for prototyping AR/VR applications.
+  Hello, I'm Gurwinder Singh, a dedicated GPU Software Development Engineer currently employed at Intel. 
+  My expertise spans various areas, including AI (Directml), OGL & Vulkan, Virtualization (KVM, ESXI...), and Windows Test Automation. 
+  In addition to my professional work, I've had the privilege of sharing my knowledge as an instructor at Chitkara University, teaching courses on Game Development, AR/VR, and Graphics Programming.
+  I've actively contributed to academia through the publication of multiple research papers. 
+  Moreover, I've made significant strides in the realm of AR/VR technology, having filed patents and secured grants for prototyping AR/VR applications.
 
 content:
   - title: Experience
