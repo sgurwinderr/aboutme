@@ -44,8 +44,8 @@ googlescholar_username: bjywFLAAAAAJ
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hey there, I'm Gurwinder Singh, a passionate GPU Software Development Engineer currently making at <mark> Intel </mark>. My expertise spans <mark> AI(Directml) </mark>, <mark> OGL & Vulkan </mark>, <mark> Virtualization (KVM, ESXI ...) </mark>, and <mark> Windows Test Automation </mark>.
-  Beyond my professional endeavors, I've had the incredible opportunity to share my knowledge as an instructor at Chitkara University, where I've taught courses on game development, AR/VR, and graphics programming. 
+  Hey there, I'm Gurwinder Singh, a passionate GPU Software Development Engineer currently making at Intel. My expertise spans AI(Directml), OGL & Vulkan, Virtualization (KVM, ESXI ...), and Windows Test Automation.
+  Beyond my professional endeavors, I've had the incredible opportunity to share my knowledge as an instructor at Chitkara University, where I've taught courses on game development, AR/VR, and Graphics Programming. 
   I'm have contributed to academia through the publication of multiple research papers. Additionally, I've filed patents related to AR/VR technology and secured grants for prototyping AR/VR applications.
 
 content:
@@ -56,11 +56,12 @@ content:
         title: Intel
         sub_title: GPU Software Development Engineer
         caption: June 2021 - Present
-        quote: >
-           Intel is best known for developing the microprocessors found in most of the world's personal computers
         description: | # this will include new lines to allow paragraphs
-           Involves optimizing and developing GPU software, crafting efficient GPU kernels, and contributing to driver development for seamless integration with operating systems and applications. 
-           Expertise in parallel programming in maximizing GPU performance, particularly in graphics rendering and machine learning.
+          As a GPU Software Development Engineer at Intel, I am responsible for Developing and Automating Server Graphics Components.
+          I have created an Framework for Windows Cloud Gaming Stack, which includes validators, workload profiling, 3D debugging, and Telemetry Data.
+          My work involves Developing, Automating, and Debugging various server graphics components such as Ray Tracing, GuC logs, ETL logs, vGPU scheduling, workload profiling, firmware management, and telemetry data.
+          Additionally, I have skillfully architected an Framework for the Server Graphics Virtualization Solution for KVM, Qemu & Libvirt.
+          I have also engineered Test Automation flows specifically designed for virtualized machines on the Windows platform, thereby enhancing testing efficiency and accuracy.
       - layout: right
         title: Chitkara University
         sub_title: Research Assistant
