@@ -102,11 +102,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Delivered a lecture on 'Mathematical Visualization for Learning' at Universiti Teknologi PETRONAS, Malaysia (2022)
+      - Delivered a lecture on Mathematical Visualization for Learning at Universiti Teknologi PETRONAS, Malaysia (2022)
       - Award of Academic Excellence by Chitkara University (2021)
       - Runner Up of BRIC Technology Exposition 2020 for Medical Devices
       - Winner of the Novate+ NewGen IEDC Grant of Rs 2.5 Lakhs (2020)
-      - Delivered a 5-day National Level Faculty Development Program on 'Disruptive Technologies: AR and its Application' (2020)
+      - Delivered a 5-day National Level Faculty Development Program on Disruptive Technologies: AR and its Application (2020)
       - Winner of the National Level AR/VR VARCOE Startup Competition at IIT Bhuvneshwar (2020)
       - Winner of the TechSpardha 2k19 National Level Prototyping Hackathon (2019)
       - Winner of the Novate+ 2019 NewGen IEDC Grant of Rs 2.5 Lakhs (2019)
