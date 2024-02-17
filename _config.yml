@@ -44,7 +44,7 @@ googlescholar_username: bjywFLAAAAAJ
 about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Gurwinder Singh, a dedicated GPU Software Development Engineer currently employed at Intel. 
-  My expertise spans various areas, including AI (Directml), OGL & Vulkan, Virtualization (KVM, ESXI...), and Windows Test Automation. 
+  My expertise spans various areas including AI (Directml), OGL & Vulkan, Virtualization (KVM, ESXI...), and Windows Test Automation. 
   In addition to my professional work, I've had the privilege of sharing my knowledge as an instructor at Chitkara University, teaching courses on Game Development, AR/VR, and Graphics Programming.
   I've actively contributed to academia through the publication of multiple research papers. 
   Moreover, I've made significant strides in the realm of AR/VR technology, having filed patents and secured grants for prototyping AR/VR applications.
@@ -59,8 +59,8 @@ content:
         caption: June 2021 - Present
         description: | # this will include new lines to allow paragraphs
           As a GPU Software Development Engineer at Intel, I am responsible for Developing and Automating Server Graphics Components.
+          My work involves Developing, Automating, and Debugging various server graphics components such as DirectML, Ray Tracing, GuC logs, ETL logs, vGPU scheduling, workload profiling, firmware management, and telemetry data.
           I have created an Framework for Windows Cloud Gaming Stack, which includes validators, workload profiling, 3D debugging, and Telemetry Data.
-          My work involves Developing, Automating, and Debugging various server graphics components such as Ray Tracing, GuC logs, ETL logs, vGPU scheduling, workload profiling, firmware management, and telemetry data.
           Additionally, I have skillfully architected an Framework for the Server Graphics Virtualization Solution for KVM, Qemu & Libvirt.
           I have also engineered Test Automation flows specifically designed for virtualized machines on the Windows platform, thereby enhancing testing efficiency and accuracy.
       - layout: right
@@ -84,6 +84,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - Published Research Article in Springer Journal 'Multimedia Tools and Applications 2023
+      - Published Research Article in 'International Conference on Advancing and Redesigning Education' 2023
       - Delivered a lecture on Mathematical Visualization for Learning at Universiti Teknologi PETRONAS, Malaysia (2022)
       - Award of Academic Excellence by Chitkara University (2021)
       - Runner Up of BRIC Technology Exposition 2020 for Medical Devices
@@ -92,7 +94,6 @@ content:
       - Winner of the National Level AR/VR VARCOE Startup Competition at IIT Bhuvneshwar (2020)
       - Winner of the TechSpardha 2k19 National Level Prototyping Hackathon (2019)
       - Winner of the Novate+ 2019 NewGen IEDC Grant of Rs 2.5 Lakhs (2019)
-      - These achievements underscore expertise in technology, innovation, and academic excellence.
 
 # Footer
 footer_show_references: true
