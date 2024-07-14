@@ -43,11 +43,11 @@ googlescholar_username: bjywFLAAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Gurwinder Singh, a dedicated GPU Software Development Engineer currently employed at Intel. 
-  My expertise spans various areas including AI (Directml), OGL & Vulkan, Virtualization (KVM, ESXI...), and Windows Test Automation. 
-  In addition to my professional work, I've had the privilege of sharing my knowledge as an instructor at Chitkara University, teaching courses on Game Development, AR/VR, and Graphics Programming.
-  I've actively contributed to academia through the publication of multiple research papers. 
-  Moreover, I've made significant strides in the realm of AR/VR technology, having filed patents and secured grants for prototyping AR/VR applications.
+  Experienced in both industry and academia, I bring a versatile background in GPU software development and research. I specialize in optimizing and advancing AI and graphics technologies. With expertise in Py Torch, C++, Python, and graphics APIs such as OpenGL, Vulkan, and DirectX, I am dedicated to pushing the limits of AI-accelerator/GPU integration.
+  Prior to this, as a Research Assistant at CURIN, Chitkara University, I developed Unity, OpenGL, and Vulkan applications for advanced trigonometry and linear algebra projects, alongside creating AR/VR tools for educational enhancement.
+  My research journey includes publishing eight papers in SCI Journals and IEEE, spanning topics such as advanced video analysis using Video Vision Transformers (Intel DTTC 2024), AR applications for enhancing spatial skills in trigonometry (Hyperspace AR, Springer US), and interactive tools for visualizing linear algebra concepts (AR for Linear Algebra Visualization, IEEE).
+  Further, I've filed three patents in AR/VR technology and secured over INR 10 Lakhs in grants for prototyping innovative applications. Awards include winning the BRIC Technology Exposition 2020 and the Novate+ NewGen IEDC Grant from the Government of India. I've also delivered lectures internationally, including 'Computational Models with LLM' and 'Mathematical Visualization for Learning' at Universiti Teknologi PETRONAS, Malaysia.
+  Passionate about leveraging technology to drive innovation, I excel in bridging research insights with practical applications, aiming to push the boundaries of AI, graphics, and educational tools.
 
 content:
   - title: Experience
@@ -58,18 +58,17 @@ content:
         sub_title: GPU Software Development Engineer
         caption: June 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          As a GPU Software Development Engineer at Intel, I am responsible for Developing and Automating Server Graphics Components.
-          My work involves Developing, Automating, and Debugging various server graphics components such as DirectML, Ray Tracing, GuC logs, ETL logs, vGPU scheduling, workload profiling, firmware management, and telemetry data.
-          I have created an Framework for Windows Cloud Gaming Stack, which includes validators, workload profiling, 3D debugging, and Telemetry Data.
-          Additionally, I have skillfully architected an Framework for the Server Graphics Virtualization Solution for KVM, Qemu & Libvirt.
-          I have also engineered Test Automation flows specifically designed for virtualized machines on the Windows platform, thereby enhancing testing efficiency and accuracy.
+          Experienced GPU Software Development Engineer specializing in driver optimization, Pytorch, C++ programming, Python scripting, and advanced graphics APIs like OpenGL, Vulkan, and DirectX.
+          Currently contributing to Intel's Habana Labs, focusing on advancing AI-accelerator/GPU integration through the optimization of Intel PyTorch Extension (IPEX) for AI accelerators and delivering key features for data center GPUs
       - layout: right
         title: Chitkara University
         sub_title: Research Assistant
         caption: May 2018 - May 2021
         description: | # this will include new lines to allow paragraphs
-           At Chitkara University, I served as a Research Assistant at Centre of Excellence for AR/VR and Instructor @ GameDepartment.
-           As an Instructor, I taught courses on game development, augmented reality/virtual reality, graphics programming, and game architecture.
+          Experienced in leading research projects and developing simulation software utilizing AR and VR technologies. Specializes in creating immersive experiences to enhance learning in subjects like trigonometry and linear algebra, as well as developing AI-driven medical devices.
+          Significant contributions have been made to research, with a total of six papers published in esteemed SCI Journals and IEEE, including four as the primary author and two as a co-author. Additionally, a strong commitment to innovation is demonstrated through the filing of three patents that advance the frontier of AR/VR technology.
+          Awards include winning the BRIC Technology Exposition 2020, sponsored by the National Research Development Corporation (NRDC) and FICCI, as well as securing the Novate+ NewGen IEDC Grant 2019 & 2020 organized by the Government of India. Further recognition includes winning the AR/VR Startup Competition 2019 at IIT Bhubaneswar and achieving first place at the TechSpardha 2k19 National Level Prototyping Hackathon 2019.
+          Efforts in securing grants have played a crucial role, with over INR 10 Lakhs secured for the prototyping and development of cutting-edge AR/VR applications.
 
   - title: Education
     layout: list
@@ -84,6 +83,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - Published Research Article in Intel DTTC 2024 'Advanced video analysis using Video Vision Transformers for 50% increase in frame corruption detection'.
+      - Delivered Lectures at University Technology PETRONAS, Malaysia 2023 regarding ‘Computational Models with LLM'.
+      - Delivered Lectures at University Technology PETRONAS, Malaysia 2022 regarding 'Mathematical Visualization for Learning'
       - Published Research Article in Springer Journal 'Multimedia Tools and Applications 2023
       - Published Research Article in 'International Conference on Advancing and Redesigning Education' 2023
       - Delivered a lecture on Mathematical Visualization for Learning at Universiti Teknologi PETRONAS, Malaysia (2022)
